@@ -1,0 +1,13 @@
+Class: Patron
+  Attributes:
+  name (String)
+  fundsAvalible (float)
+  tableNumber (int)
+  partySize (int)
+  partyMembers (array)
+    Methods:
+    goToTable
+    eatFood
+    joinParty
+    payCheck
+    leaveTable

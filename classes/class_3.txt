@@ -1,0 +1,13 @@
+class: Store
+  Attributes:
+  storeNumber (int)
+  address (string)
+  isOpen (boolean)
+  menu (hash - item:price)
+  happyHour (boolean)
+    Methods:
+    openStore
+    closeStore
+    changeMenu
+    happyHourMenu
+    takeCoupon

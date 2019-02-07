@@ -1,0 +1,13 @@
+Class: Waitstaff
+  Attributes:
+  name (string)
+  sectionAssigned (string)
+  tableOrder (array)
+  foodReady (boolean)
+  atRestaurant (boolean)
+    Methods:
+    clockIn
+    clockOut
+    takeOrder
+    getWorkingSection
+    checkKitchen
